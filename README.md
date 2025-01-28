@@ -24,7 +24,7 @@
 
 <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=wcnnnn&show_icons=true&theme=radical" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=wcnnnn&repo=Cjj--ML&theme=radical" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=wcnnnn&repo=Cpp--ML&theme=radical" />
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=wcnnnn&repo=sxjm&theme=radical" />
 </div>
 
