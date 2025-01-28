@@ -6,8 +6,8 @@
 
 ### 🚀 关于我
 - 💻 热爱机器学习与深度学习的开发者
-- 🌱 专注于 AI 领域的学习与分享
-- 🎯 2025 目标：深入研究前沿 AI 技术，输出更多高质量文章
+- 📚 持续学习计算机视觉和并行计算前沿技术
+- ✍️ CSDN 博主，分享学习心得和项目经验
 
 ### 🛠️ 技术栈
 ![Python](https://custom-icon-badges.demolab.com/badge/Python-blue.svg?logo=python&logoColor=white)
@@ -26,7 +26,7 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=wcnnnn&show_icons=true&theme=radical" />
   
   <a href="https://github.com/wcnnnn/Cjj--ML">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=wcnnnn&repo=Cjj--ML&theme=radical" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=wcnnnn&repo=Cpp--ML&theme=radical" />
   </a>
   
   <a href="https://github.com/wcnnnn/sxjm">
