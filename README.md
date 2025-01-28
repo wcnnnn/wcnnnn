@@ -23,9 +23,15 @@
 <td width="50%">
 
 <div align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=wcnnnn&show_icons=true&theme=radical" />
-  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=wcnnnn&repo=Cpp--ML&theme=radical" />
-  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=wcnnnn&repo=sxjm&theme=radical" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=wcnnnn&show_icons=true&theme=radical" />
+  
+  <a href="https://github.com/wcnnnn/Cjj--ML">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=wcnnnn&repo=Cjj--ML&theme=radical" />
+  </a>
+  
+  <a href="https://github.com/wcnnnn/sxjm">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=wcnnnn&repo=sxjm&theme=radical" />
+  </a>
 </div>
 
 </td>
