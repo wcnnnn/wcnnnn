@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 # 👋 你好，我是 wcnnnn
 
@@ -20,12 +20,12 @@
 ![HPC](https://custom-icon-badges.demolab.com/badge/⚡_High_Performance_Computing-orange.svg?style=for-the-badge&logoColor=white)
 
 </td>
-<td width="40%">
+<td width="50%">
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=wcnnnn&show_icons=true&theme=radical" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=wcnnnn&repo=Cpp--ML&theme=radical" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=wcnnnn&repo=sxjm&theme=radical" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=wcnnnn&show_icons=true&theme=radical" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=wcnnnn&repo=Cpp--ML&theme=radical" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=wcnnnn&repo=sxjm&theme=radical" />
 </div>
 
 </td>
