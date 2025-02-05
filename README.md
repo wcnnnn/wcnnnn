@@ -65,11 +65,9 @@ Let each thread become a perfect note of harmony.
 
 ## 🚀 算法加速效果
 
-### GMM 算子
-![GMM Speedup](https://img.shields.io/badge/加速比-101.2x-ff6b81?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### NMS 算子
-![NMS Speedup](https://img.shields.io/badge/加速比-105.50x-70a1ff?style=for-the-badge&logo=nvidia&logoColor=white)
+<div align="center">
+  <img src="download.png" width="550" height="350">
+</div>
 
 </div>
 
