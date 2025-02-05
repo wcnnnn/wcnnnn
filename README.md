@@ -1,8 +1,10 @@
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
 # 👋 你好，我是 wcnnnn
+
+<table>
+<tr>
+<td width="60%">
 
 ### 🚀 关于我
 - 💻 热爱机器学习与深度学习的开发者
@@ -20,18 +22,47 @@
 ![HPC](https://custom-icon-badges.demolab.com/badge/⚡_High_Performance_Computing-orange.svg?style=for-the-badge&logoColor=white)
 
 </td>
+<td width="40%">
+
+### ✨ 并行宇宙的诗行 ✨
+
+🌌 在代码的星河中漫游，  
+我是量子比特间的吟游诗人。  
+用并行的韵律编织天际，  
+让算法在CUDA星云中起舞。  
+
+🌠 当NUMA星座织就光桥，  
+分布式的花园绽放数据之花。  
+我在容器的森林中寻找平衡，  
+让每个线程都成为完美的音符。  
+
+</td>
+</tr>
+</table>
+
+### 🚀 精选项目
+
+<table>
+<tr>
+<td width="50%">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=wcnnnn&show_icons=true&theme=radical" />
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcnnnn&layout=compact&theme=radical" />
+
+</td>
 <td width="50%">
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=wcnnnn&show_icons=true&theme=radical" />
-  
-  <a href="https://github.com/wcnnnn/Cjj--ML">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=wcnnnn&repo=Cpp--ML&theme=radical" />
-  </a>
-  
-  <a href="https://github.com/wcnnnn/sxjm">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=wcnnnn&repo=sxjm&theme=radical" />
-  </a>
+
+## 🚀 算法加速效果
+
+### GMM 算子
+![GMM Speedup](https://img.shields.io/badge/加速比-101.2x-ff6b81?style=for-the-badge&logo=nvidia&logoColor=white)
+
+### NMS 算子
+![NMS Speedup](https://img.shields.io/badge/加速比-105.50x-70a1ff?style=for-the-badge&logo=nvidia&logoColor=white)
+
 </div>
 
 </td>
@@ -40,3 +71,5 @@
 
 ### 🔗 相关链接
 [![CSDN](https://custom-icon-badges.demolab.com/badge/CSDN-专栏-red.svg?logo=csdn&logoColor=white)](https://blog.csdn.net/m0_75139089)
+
+</div>
