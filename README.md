@@ -1,10 +1,9 @@
 <div align="center">
 
 # 👋 你好，我是 wcnnnn
-
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 ### 🚀 关于我
 - 💻 热爱机器学习与深度学习的开发者
@@ -18,23 +17,32 @@
 ![C++](https://custom-icon-badges.demolab.com/badge/C++-blue.svg?logo=cpp2&logoColor=white)
 
 ### 💡 研究方向
-![Image Segmentation](https://custom-icon-badges.demolab.com/badge/🖼️_Image_Segmentation-blue.svg?style=for-the-badge&logoColor=white)
-![HPC](https://custom-icon-badges.demolab.com/badge/⚡_High_Performance_Computing-orange.svg?style=for-the-badge&logoColor=white)
+![Image Segmentation](https://custom-icon-badges.demolab.com/badge/🖼️_Image_Segmentation-blue.svg?style=for-the-badge&logoColor=white)![HPC](https://custom-icon-badges.demolab.com/badge/⚡_High_Performance_Computing-green.svg?style=for-the-badge&logoColor=white)
 
 </td>
-<td width="40%">
+<td width="50%">
 
-### ✨ 并行宇宙的诗行 ✨
+<div align="center">
 
-🌌 在代码的星河中漫游，  
-我是量子比特间的吟游诗人。  
-用并行的韵律编织天际，  
-让算法在CUDA星云中起舞。  
+### ✨ Parallel Universe Poetry ✨
 
-🌠 当NUMA星座织就光桥，  
-分布式的花园绽放数据之花。  
-我在容器的森林中寻找平衡，  
-让每个线程都成为完美的音符。  
+🌌 Wandering through the starry river of code,  
+
+I am a bard among quantum bits.  
+
+Weaving the rhythm of parallelism across the sky,  
+
+Let algorithms dance in CUDA's nebula.  
+
+🌠 When NUMA constellations forge bridges of light,  
+
+The distributed garden blooms with data flowers.  
+
+In the forest of containers, I seek balance,  
+
+Let each thread become a perfect note of harmony.  
+
+</div>
 
 </td>
 </tr>
