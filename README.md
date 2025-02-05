@@ -66,7 +66,7 @@ Let each thread become a perfect note of harmony.
 ## 🚀 算法加速效果
 
 <div align="center">
-  <img src="download.png" width="550" height="350">
+  <img src="download.png" width="550" height="250">
 </div>
 
 </div>
