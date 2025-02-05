@@ -16,32 +16,31 @@
 ![CUDA](https://custom-icon-badges.demolab.com/badge/CUDA-green.svg?logo=nvidia&logoColor=white)
 ![C++](https://custom-icon-badges.demolab.com/badge/C++-blue.svg?logo=cpp2&logoColor=white)
 
-### 💡 研究方向
+### 💡 兴趣方向
 ![Image Segmentation](https://custom-icon-badges.demolab.com/badge/🖼️_Image_Segmentation-blue.svg?style=for-the-badge&logoColor=white)![HPC](https://custom-icon-badges.demolab.com/badge/⚡_High_Performance_Computing-green.svg?style=for-the-badge&logoColor=white)
 
 </td>
 <td width="50%">
 
 <div align="center">
+  
+### *✨ Parallel Universe Poetry ✨*
 
-### ✨ Parallel Universe Poetry ✨
+*🌌 Wandering through the starry river of code,*  
 
-🌌 Wandering through the starry river of code,  
+*I am a bard among quantum bits.*  
 
-I am a bard among quantum bits.  
+*Weaving the rhythm of parallelism across the sky,*  
 
-Weaving the rhythm of parallelism across the sky,  
+*Let algorithms dance in CUDA's nebula.*  
 
-Let algorithms dance in CUDA's nebula.  
+*🌠 When NUMA constellations forge bridges of light,*  
 
-🌠 When NUMA constellations forge bridges of light,  
+*The distributed garden blooms with data flowers.*  
 
-The distributed garden blooms with data flowers.  
+*In the forest of containers, I seek balance,*  
 
-In the forest of containers, I seek balance,  
-
-Let each thread become a perfect note of harmony.  
-
+*Let each thread become a perfect note of harmony.*
 </div>
 
 </td>
