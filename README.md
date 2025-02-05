@@ -1,6 +1,4 @@
 <div align="center">
-
-# 👋 你好，我是 wcnnnn
 <table>
 <tr>
 <td width="50%">
