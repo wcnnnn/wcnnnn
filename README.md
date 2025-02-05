@@ -44,9 +44,6 @@
 </td>
 </tr>
 </table>
-
-### 🚀 精选项目
-
 <table>
 <tr>
 <td width="50%">
