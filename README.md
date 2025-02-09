@@ -52,17 +52,15 @@
 
 
 ### 📊 GitHub 统计
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wcnnnn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=cn"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcnnnn&layout=compact&langs_count=8&theme=dracula&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wcnnnn&show_icons=true&theme=vue&include_all_commits=true&count_private=true&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcnnnn&layout=compact&langs_count=8&theme=vue&locale=cn"/>
 </div>
-
 ### 🐍 贡献图
 ![贡献统计](https://raw.githubusercontent.com/wcnnnn/wcnnnn/output/github-contribution-grid-snake.svg)
 
 ### 📊 活跃度统计
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wcnnnn&theme=tokyo-night&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wcnnnn&theme=vue&area=true&hide_border=true"/>
 
 
 ### 🤝 联系方式
