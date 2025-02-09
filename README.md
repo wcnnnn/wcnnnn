@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=Hello+World!+👋;欢迎来到我的并行计算世界！;我是一名热爱机器学习的开发者;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=Hello+World!+👋;我是一名热爱机器学习的开发者;" />
 </div>
 
 <br/>
