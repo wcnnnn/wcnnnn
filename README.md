@@ -1,67 +1,48 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=Hello+World!+👋;欢迎来到我的并行计算世界！;我是一名热爱机器学习的开发者;让并行创造无限可能" />
+</div>
+
+<br/>
+
+<div align="center">
 <table>
 <tr>
 <td width="50%">
 
 ### 🚀 关于我
-- 💻 热爱机器学习与深度学习的开发者
-- 📚 持续学习计算机视觉和并行计算前沿技术
-- ✍️ CSDN 博主，分享学习心得和项目经验
+- 💻 热爱机器学习与深度学习的~~打工人~~开发者
+- ✍️ CSDN 博主（写文章使我快乐）
 
 ### 🛠️ 技术栈
-![Python](https://custom-icon-badges.demolab.com/badge/Python-blue.svg?logo=python&logoColor=white)
-![PyTorch](https://custom-icon-badges.demolab.com/badge/PyTorch-red.svg?logo=pytorch&logoColor=white)
-![CUDA](https://custom-icon-badges.demolab.com/badge/CUDA-green.svg?logo=nvidia&logoColor=white)
-![C++](https://custom-icon-badges.demolab.com/badge/C++-blue.svg?logo=cpp2&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</div>
 
-### 💡 兴趣方向
-![Image Segmentation](https://custom-icon-badges.demolab.com/badge/🖼️_Image_Segmentation-blue.svg?style=for-the-badge&logoColor=white)![HPC](https://custom-icon-badges.demolab.com/badge/⚡_High_Performance_Computing-green.svg?style=for-the-badge&logoColor=white)
+### 💡 研究方向
+<div align="center">
+  <img src="https://img.shields.io/badge/🖼️_图像分割-2496ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡_高性能计算-76B900?style=for-the-badge"/>
+</div>
 
 </td>
 <td width="50%">
 
 <div align="center">
   
-### *✨ Parallel Universe Poetry ✨*
+### *✨ Poetry of the Parallel Universe ✨*
 
-*🌌 Wandering through the starry river of code,*  
-
+*🌌 Wandering through rivers of code,*  
 *I am a bard among quantum bits.*  
-
-*Weaving the rhythm of parallelism across the sky,*  
-
+*Weaving rhythms of parallel skies,*  
 *Let algorithms dance in CUDA's nebula.*  
 
-*🌠 When NUMA constellations forge bridges of light,*  
-
-*The distributed garden blooms with data flowers.*  
-
-*In the forest of containers, I seek balance,*  
-
-*Let each thread become a perfect note of harmony.*
-</div>
-
-</td>
-</tr>
-</table>
-<table>
-<tr>
-<td width="50%">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=wcnnnn&show_icons=true&theme=radical" />
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcnnnn&layout=compact&theme=radical" />
-
-</td>
-<td width="50%">
-
-<div align="center">
-
-## 🚀 算法加速效果
-
-<div align="center">
-  <img src="download.png" width="550" height="250">
-</div>
+*🌠 When NUMA constellations bridge the light,*  
+*Data flowers bloom in distributed gardens.*  
+*Seeking balance in forests of containers,*  
+*Let each thread be a note of harmony.*
 
 </div>
 
@@ -69,7 +50,39 @@
 </tr>
 </table>
 
-### 🔗 相关链接
-[![CSDN](https://custom-icon-badges.demolab.com/badge/CSDN-专栏-red.svg?logo=csdn&logoColor=white)](https://blog.csdn.net/m0_75139089)
 
+### 📊 GitHub 统计
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wcnnnn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcnnnn&layout=compact&langs_count=8&theme=tokyonight&locale=cn"/>
+</div>
+
+
+
+### 🐍 贡献图
+![贡献统计](https://raw.githubusercontent.com/wcnnnn/wcnnnn/output/github-contribution-grid-snake.svg)
+
+### 📊 活跃度统计
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wcnnnn&theme=tokyo-night&area=true&hide_border=true"/>
+
+
+### 🤝 联系方式
+
+<div align="center">
+  <a href="https://github.com/wcnnnn">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://blog.csdn.net/m0_75139089">
+    <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="mailto:你的邮箱">
+    <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5cb3cc&height=100&section=footer&text=&fontSize=24&fontAlignY=80" width="100%"/>
 </div>
