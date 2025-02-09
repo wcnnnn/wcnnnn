@@ -54,11 +54,9 @@
 ### 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wcnnnn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=cn"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcnnnn&layout=compact&langs_count=8&theme=tokyonight&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wcnnnn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcnnnn&layout=compact&langs_count=8&theme=dracula&locale=cn"/>
 </div>
-
-
 
 ### 🐍 贡献图
 ![贡献统计](https://raw.githubusercontent.com/wcnnnn/wcnnnn/output/github-contribution-grid-snake.svg)
@@ -76,7 +74,7 @@
   <a href="https://blog.csdn.net/m0_75139089">
     <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=c&logoColor=white" />
   </a>
-  <a href="mailto:你的邮箱">
+  <a href="3076648528@qq.com">
     <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
