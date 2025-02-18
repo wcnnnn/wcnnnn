@@ -54,8 +54,10 @@
 ### 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wcnnnn&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcnnnn&layout=compact&langs_count=8&theme=vue"/>
+  <a href="https://github.com/wcnnnn">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wcnnnn&show_icons=true&theme=vue"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcnnnn&layout=compact&langs_count=8&theme=vue"/>
+  </a>
 </div>
 
 ### 🐍 贡献图
