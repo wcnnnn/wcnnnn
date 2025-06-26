@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=Hello+World!+👋;我是一名热爱机器学习的开发者;" />
-</div>
 
 <br/>
 
@@ -21,10 +18,10 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </div>
 
-### 💡 研究方向
+### 研究方向
 <div align="center">
-  <img src="https://img.shields.io/badge/🖼️_图像分割-2496ED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚡_高性能计算-76B900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠半监督学习-2C5282?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔄图像重建-F59E0B?style=for-the-badge"/>
 </div>
 
 </td>
