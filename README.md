@@ -6,10 +6,6 @@
 <tr>
 <td width="50%">
 
-### 🚀 关于我
-- 💻 热爱机器学习与深度学习的~~打工人~~开发者
-- ✍️ CSDN 博主
-
 ### 🛠️ 技术栈
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
