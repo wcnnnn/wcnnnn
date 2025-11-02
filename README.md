@@ -4,7 +4,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 🛠️ 技术栈
 <div align="center">
@@ -18,25 +18,6 @@
 <div align="center">
 <img src="https://img.shields.io/badge/🧠半监督学习-2C5282?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🔄图像重建-F59E0B?style=for-the-badge"/>
-</div>
-
-</td>
-<td width="50%">
-
-<div align="center">
-  
-### *✨ Poetry of the Parallel Universe ✨*
-
-*🌌 Wandering through rivers of code,*  
-*I am a bard among quantum bits.*  
-*Weaving rhythms of parallel skies,*  
-*Let algorithms dance in CUDA's nebula.*  
-
-*🌠 When NUMA constellations bridge the light,*  
-*Data flowers bloom in distributed gardens.*  
-*Seeking balance in forests of containers,*  
-*Let each thread be a note of harmony.*
-
 </div>
 
 </td>
